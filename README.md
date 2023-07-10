@@ -1,2 +1,2 @@
 # tebak-angka
-### acces via [tebak angka](anggito-m.github.io/tebak-angka/index.html)
+### acces via [tebak angka](https://anggito-m.github.io/tebak-angka/index.html)
